@@ -2,7 +2,7 @@
 
 VERSION="0.0.1" # Версия скрипта
 
-DOCKER_PATH="/var/packages/ContainerManager/shares/docker"
+DOCKER_PATH="/var/packages/Docker/shares/docker"
 MATRIX_PRJ_NAME_DEFAULT="matrix-dendrite"
 TEMPLATES_URL_BASE="https://github.com/arabezar/matrix-dendrite-synology/raw/refs/heads/main"
 
